@@ -1,10 +1,14 @@
 # Online School
 
-This project is about Online Coursed is Called [Online School](https://online-school-rizvi.netlify.app/).
+This project is about Online Course is Called [Online School](https://online-school-rizvi.netlify.app/).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project You will get
 
-### `yarn start`
+* Product Details Page
+* 404 Not Found
+* Onlice Courses List
+* Home Page, Service Page, About Page, Contact US Page.
+
 
