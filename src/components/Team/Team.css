@@ -1,0 +1,117 @@
+.about-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    min-height: 100vh;
+}
+
+.container {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 40px 0;
+}
+
+.container .card {
+    position: relative;
+    width: 260px;
+    height: 400px;
+    background: rgba(255, 255, 255, 0.06);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(10px) saturate(180%);
+}
+
+.container .card .social-icon {
+    position: absolute;
+    bottom: 50px;
+    display: flex;
+}
+
+.container .card .social-icon li {
+    list-style: none;
+    margin: 0 10px;
+    transform: translateY(40px);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.container .card .social-icon li:nth-child(1) {
+    transition-delay: calc(0.1s * 1);
+}
+
+.container .card .social-icon li:nth-child(2) {
+    transition-delay: calc(0.1s * 2);
+}
+
+.container .card .social-icon li:nth-child(3) {
+    transition-delay: calc(0.1s * 3);
+}
+
+.container .card:hover .social-icon li {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.container .card .social-icon li a {
+    color: #fff;
+    font-size: 24px;
+}
+
+.container .card .content {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0.7;
+    transition: 0.5s;
+}
+
+.container .card:hover .content {
+    opacity: 1;
+}
+
+.container .card .contentBox h3 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    margin: 20px 0px 10px;
+    line-height: 1.2em;
+}
+
+.container .card .contentBox h3 span {
+    font-size: 12px;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+
+.container .card .content .imgBox {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 10px solid rgba(0, 0, 0, 0.25);
+}
+
+.container .card .content .imgBox img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

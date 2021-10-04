@@ -1,0 +1,12 @@
+.footer-section {
+    height: 100px;
+    background: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-icons i {
+    cursor: pointer;
+}

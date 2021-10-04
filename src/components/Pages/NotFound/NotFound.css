@@ -1,0 +1,11 @@
+.not-found-section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #161623;
+}
+
+.not-found-container h1 {
+    font-size: 80px;
+}

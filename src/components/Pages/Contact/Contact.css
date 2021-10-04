@@ -1,0 +1,16 @@
+.contact-outer-section {
+    background: #161623;
+    padding: 50px 0;
+}
+
+.contact-section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-container {
+    width: 50%;
+}

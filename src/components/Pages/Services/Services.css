@@ -1,0 +1,8 @@
+.services-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: #161623;
+    padding-bottom: 50px;
+}

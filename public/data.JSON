@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "course_name": "GMAT",
+    "full_name": "Sauncho Triebner",
+    "gender": "Female",
+    "rating": 2,
+    "rating_count": 220,
+    "available_Seats": 18,
+    "schedule": "12:00 PM to 02:30 PM",
+    "difficulty_level": "Beginner"
+}, {
+    "id": 2,
+    "course_name": "GRE",
+    "full_name": "Bevvy MacCostigan",
+    "gender": "Polygender",
+    "rating": 4,
+    "rating_count": 185,
+    "available_Seats": 47,
+    "schedule": "12:00 PM to 02:30 PM",
+    "difficulty_level": "Beginner"
+}, {
+    "id": 3,
+    "course_name": "Basic Writing",
+    "full_name": "Hill Rillatt",
+    "gender": "Agender",
+    "rating": 2,
+    "rating_count": 372,
+    "available_Seats": 39,
+    "schedule": "12:00 PM to 02:30 PM",
+    "difficulty_level": "Beginner"
+}, {
+    "id": 4,
+    "course_name": "IELTS",
+    "full_name": "Britney Izzatt",
+    "gender": "Genderfluid",
+    "rating": 4,
+    "rating_count": 486,
+    "available_Seats": 30,
+    "schedule": "12:00 PM to 02:30 PM",
+    "difficulty_level": "Intermediate"
+}, {
+    "id": 5,
+    "course_name": "Phonetics",
+    "full_name": "Alric Willbond",
+    "gender": "Agender",
+    "rating": 2,
+    "rating_count": 365,
+    "available_Seats": 34,
+    "schedule": "12:00 PM to 02:30 PM",
+    "difficulty_level": "Intermediate"
+}, {
+    "id": 6,
+    "course_name": "Basic Spoken",
+    "full_name": "Sherill Follows",
+    "gender": "Non-binary",
+    "rating": 3,
+    "rating_count": 114,
+    "available_Seats": 11,
+    "schedule": "07:00 PM to 09:00 PM",
+    "difficulty_level": "Beginner"
+}, {
+    "id": 7,
+    "course_name": "Intermediate Spoken",
+    "full_name": "Winni Marzele",
+    "gender": "Polygender",
+    "rating": 4,
+    "rating_count": 217,
+    "available_Seats": 40,
+    "schedule": "04:00 PM to 06:00 PM",
+    "difficulty_level": "Intermediate"
+}, {
+    "id": 8,
+    "course_name": "UI/UX Design Course",
+    "full_name": "Edy Harvie",
+    "gender": "Male",
+    "rating": 3,
+    "rating_count": 170,
+    "available_Seats": 11,
+    "schedule": "12:00 PM to 02:30 PM",
+    "difficulty_level": "Beginner"
+}, {
+    "id": 9,
+    "course_name": "Web Design Course",
+    "full_name": "Bernadina Marskell",
+    "gender": "Male",
+    "rating": 4,
+    "rating_count": 405,
+    "available_Seats": 12,
+    "schedule": "06:00 PM to 08:00 PM",
+    "difficulty_level": "Beginner"
+}, {
+    "id": 10,
+    "course_name": "Photography Course",
+    "full_name": "Cesare Muslim",
+    "gender": "Polygender",
+    "rating": 3,
+    "rating_count": 244,
+    "available_Seats": 48,
+    "schedule": "2:30 PM to 04:30 PM",
+    "difficulty_level": "Intermediate"
+}]​

@@ -1,0 +1,8 @@
+.outer-team-section {
+    background: #161623;
+}
+
+.team-containers {
+    display: flex;
+    justify-content: center;
+}
